@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ericcai001x/Parstagram/blob/master/屏幕录制2020-02-27下午9.05.22.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
